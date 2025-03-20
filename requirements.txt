@@ -1,5 +1,2 @@
 flask
-flask
-semantic-kernel
-google-generativeai
-aiohttp
+
